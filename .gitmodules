@@ -1,0 +1,3 @@
+[submodule "einTest"]
+	path = einTest
+	url = https://github.com/lecdou/einTest
